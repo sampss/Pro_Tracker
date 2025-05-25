@@ -1,0 +1,8 @@
+venv/            # Virtual environment (Python dependencies)
+.env/            # Environment variable files (API keys, secrets)
+__pycache__/     # Python cache files
+logs/            # Log files, error tracking data
+node_modules/    # Dependencies (if using Node.js)
+build/           # Compiled files or temporary assets
+migrations/      # Django migrations (optional)
+private_module/  # Proprietary code that won’t be shared
